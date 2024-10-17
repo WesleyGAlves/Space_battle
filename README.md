@@ -54,3 +54,65 @@ Wesley Goncalves Alves - Desenvolvedor C#/.NET
 
 - [LinkedIn](https://www.linkedin.com/in/wesley-gon%C3%A7alves-alves-3b95472ab/)
 - [GitHub](https://github.com/WesleyGAlves)
+
+
+#ENGLISH
+
+# Space Battle 🚀👾
+
+Space Battle is a space battle game developed in C# using the WPF framework. The player controls a spaceship and must avoid enemy ships while shooting them down. The objective is to destroy as many enemies as possible before your ship is destroyed.
+
+## Features
+
+- Player movement using arrow keys (left/right).
+- Shooting bullets with the spacebar.
+- Scoring system based on the number of enemies destroyed.
+- Increasing difficulty as the player progresses (enemy speed increases).
+- Collision detection between the player’s ship, enemies, and projectiles.
+- Damage display for the player's ship.
+- Game over when the ship reaches the damage limit.
+
+## Technologies Used
+
+- **C#** - Programming language.
+- **WPF (Windows Presentation Foundation)** - Framework used to create the game's graphical interface and elements.
+- **XAML** - Used to define the visual interface and game components.
+- **DispatcherTimer** - Manages the main game loop cycle.
+- **Canvas** - Main component for rendering game elements (spaceship, enemies, bullets).
+
+## How to Run
+
+1. Clone this repository to your local machine using the command:
+
+    ```bash
+    git clone https://github.com/your-username/space-battle.git
+    ```
+
+2. Open the project in Visual Studio.
+
+3. Restore NuGet packages if necessary.
+
+4. Build and run the project.
+
+## How to Play
+
+- **Move the ship**: Use the left (⬅️) and right (➡️) arrow keys to move the spaceship.
+- **Shoot**: Press the spacebar to shoot bullets.
+- **Objective**: Destroy as many enemy ships as you can. If the enemy ships collide with your spaceship or reach the bottom of the screen, you will take damage.
+- **Game Over**: The game ends when your ship's damage reaches 100%.
+
+## Future Improvements
+
+- Add new enemy types and movement patterns.
+- Implement power-ups to enhance the player's ship abilities.
+- Level system with different challenges and environments.
+- Add background music and sound effects.
+
+### Author
+
+Wesley Goncalves Alves - C#/.NET Developer
+
+- [LinkedIn](https://www.linkedin.com/in/wesley-gon%C3%A7alves-alves-3b95472ab/)
+- [GitHub](https://github.com/WesleyGAlves)
+
+
