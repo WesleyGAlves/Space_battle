@@ -55,8 +55,9 @@ Wesley Goncalves Alves - Desenvolvedor C#/.NET
 - [LinkedIn](https://www.linkedin.com/in/wesley-gon%C3%A7alves-alves-3b95472ab/)
 - [GitHub](https://github.com/WesleyGAlves)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#ENGLISH
+# ENGLISH
 
 # Space Battle 🚀👾
 
