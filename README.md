@@ -52,5 +52,5 @@ Space Battle é um jogo de batalha espacial desenvolvido em C# utilizando o fram
 
 Wesley Goncalves Alves - Desenvolvedor C#/.NET
 
-- [LinkedIn]([https://www.linkedin.com/in/wesley-goncalves-alves/](https://www.linkedin.com/in/wesley-gon%C3%A7alves-alves-3b95472ab/))
+- [LinkedIn](https://www.linkedin.com/in/wesley-gon%C3%A7alves-alves-3b95472ab/)
 - [GitHub](https://github.com/WesleyGAlves)
